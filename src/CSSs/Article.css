@@ -1,0 +1,15 @@
+.article-pos{
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  top: 300px;
+  max-width: 820px;
+  margin: auto;
+  background-color: rgba(223, 223, 223,0.4);
+  border: 1px solid rgb(223, 223, 223);
+  border-radius: 10px;
+}
+
+.deco{
+  text-decoration: none;
+}

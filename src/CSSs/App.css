@@ -1,0 +1,139 @@
+
+.mainhead{
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  opacity: 0.9;
+}
+
+.title-name{
+  line-height: 1.5;
+  text-align: left;
+  width: 100vw;
+  font-size: 100px;
+  font-family:"Yoru",sans-serif;
+  background-image:url("../assets/Yoru.jpg") ;
+  color: cadetblue;
+  background-repeat: no-repeat ;
+  background-size: cover;
+}
+
+.Menu{
+  line-height: 1.5;
+  font-size: 100px;
+  background-color: #1C4072;
+  color: white;
+}
+
+.OpenMenu{
+  font-size: 50px;
+  height: 100vh;
+  width: 500px;
+  background-color: #1C4072;
+  color: white;
+  animation-name: Open;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+  position: fixed;
+  z-index: 150;
+}
+
+@keyframes Open{
+  from{
+    transform: translateX(-100%)
+  }
+  to{
+    transform: translateX(0%);
+  }
+}
+
+.CloseMenu{
+  font-size: 50px;
+  height: 100vh;
+  width: 500px;
+  background-color: #1C4072;
+  color: white;
+  animation-name: Closed;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+  position: fixed;
+  z-index: 150;
+
+}
+
+@keyframes Closed{
+  from{
+    transform: translateX(0%);
+  }
+  to{
+    transform: translateX(-100%);
+  }
+}
+
+.hide-menu{
+  transform: translateX(-100%);
+}
+
+@font-face {
+  font-family: "Yoru";
+  src: url('../fontAsset/yosugaraver1_2.ttf');
+}
+
+.disable-click{
+  animation: lock 1s;
+}
+
+@keyframes lock{
+  0%{pointer-events: none}
+  100%{pointer-events: all;}
+  
+}
+body{
+  margin: 0%;
+  padding:0%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.ulLinks{
+  text-decoration: none;
+  color: inherit;
+}
+
+.subtitle{
+  display: flex;
+  align-items: center;
+  z-index: 100;
+  opacity: 0.9;
+  top: 150px;
+  position: fixed;
+  border-top: 3px solid white;
+  height: 75px;
+  font-size: 40px;
+  width: 100vw;
+  font-family:"Yoru",sans-serif;
+  background-color: #1C4072;
+  color: rgb(255, 255, 255);
+}
+
+.subtitle ul{
+  display: flex;
+  list-style-type: none;
+}
+
+.subtitle li{
+  margin-right: 20px;
+  border-bottom: 3px solid #1C4072;
+  transition: border-color 0.3s ease;
+}
+
+
+
+.subtitle li:hover{
+  border-bottom: 3px solid;
+}
+
+
+

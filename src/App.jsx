@@ -1,121 +1,107 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useState } from 'react' 
+import './CSSs/App.css'
+import './CSSs/Article.css'
+import './CSSs/articleCount.css'
+import './CSSs/ArticleUnity.css'
+import './CSSs/ArticleOther.css'
+import Introduction from './Articles/Introduction'
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import { Link } from 'react-router-dom'
+
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [Isopen,setIsopen] = useState(null);
+  const [activeCate, SetactiveCate] = useState("All");
+  const [currentArti, setCurrentArti] = useState(null);
+
+  const Ispageopen = ()=>{
+    setIsopen(true);
+
+  }
+
+  const SetCategory = (Category)=>{
+      SetactiveCate(Category);
+  }
+
+  const Ispageclose = ()=>{
+    if(Isopen === true){
+      setIsopen(false);
+    }
+  }
+
+  const articles = [
+    {id:1, title:"自己紹介", category:"other", element: <Introduction />,description: "ここの管理者の自己紹介を書いていきたいと思います", classname: "article-other",URL:"Introduction"},
+  ]
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
+    <Router basename='/Kuro.github.io'>
+      <>
+        <header className='head'>
+          <div className='title'>
+            <div className='mainhead'>
+                <span className='Menu' onClick={Ispageopen}>≡</span>
+              <div onClick={Ispageclose} className={Isopen ?"disable-click" : ""}>
+                <div className='title-name'>Kuro's LIBRARY</div>
+              </div>
+            </div>
+            <div className='subtitle'>
+              <Link to='/' className='ulLinks'>
+              <ul>
+                <li onClick={() => SetCategory("All")}>
+                全て 
+                </li>
+                <li onClick={() => SetCategory("unity")}>
+                unity 
+                </li>
+                <li  onClick={() => SetCategory("math")}>
+                数学 
+                </li>
+                <li onClick={() => SetCategory("pharmacy")}>
+                  薬学 
+                </li>
+                <li onClick={() => SetCategory("information")}>
+                情報 
+                </li>
+                <li onClick={() => SetCategory("trivia")}>
+                雑学 
+                </li>
+                <li onClick={() => SetCategory("Program")}>
+                プログラミング 
+                </li>
+                <li onClick={() => SetCategory("other")}>
+                その他 
+                </li>
+              </ul>
+              </Link>
+            </div>
+          </div>
+        </header>
+        <div className={Isopen === null?"hide-menu": Isopen? "OpenMenu":"CloseMenu"}>Home</div>
+        <Routes>
+          <Route path='/' element ={
+            <div className='article-pos'>
+              <div className='article-count'>記事総数:{articles.filter(cont =>activeCate === "All" || cont.category === activeCate).length}
+                &nbsp; 現在のカテゴリー:{activeCate}  
+              </div>
+                {articles.filter(cont =>activeCate === "All" || cont.category === activeCate).map((cont, index)=>{
+                  return <Link to={`${cont.category}-${cont.URL}`} className='deco'>
+                    <article className={cont.classname} key = {cont.id}>
+                      <p>
+                        <div>{cont.title}</div>
+                        {cont.description}<br></br>
+                        #{cont.category}
+                      </p>
+                    </article>
+                  </Link>
+                })}
+              </div>
+          }></Route>
+          {articles.map((cont)=>{
+            return <Route path={`${cont.category}-${cont.URL}`} element = {cont.element} /> 
+          })}
+        </Routes>
+      </>
+    </Router>  
   )
 }
 

@@ -1,0 +1,9 @@
+.Yoru-text{
+  font-family:"Yoru",sans-serif;
+}
+
+
+@font-face {
+  font-family: "Yoru";
+  src: url('../fontAsset/yosugaraver1_2.ttf');
+}

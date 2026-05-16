@@ -1,0 +1,42 @@
+.Operator{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  top: 300px;
+  align-items: center;
+}
+
+.Content-title{
+  position: relative;
+  
+  width: 820px;
+  font-size: 50px;
+  
+  text-align: left;
+
+}
+
+.Button{
+position: relative;
+
+top: 50px;
+width: 200px;
+height: 50px;
+}
+
+.frame{
+  position: relative;
+  width: 820px;
+  margin: auto;
+  background-color: rgba(237, 243, 255, 0.4);
+  border: 1px solid rgb(150, 150, 150);
+  border-radius: 10px;
+  overflow-wrap: break-word;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.frame p{
+  
+  white-space: pre-wrap;
+}
