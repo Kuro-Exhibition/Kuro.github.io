@@ -1,0 +1,33 @@
+name: TechCrunch Scraper
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 22 * * *'
+
+jobs:
+  build-and-scrape:
+    runs-on: ubuntu-latest
+      
+    steps:
+     - name: Check out repository
+       uses: actions/checkout@v4
+
+     - name: Set up Python
+       uses: actions/setup-python@v5
+       with:
+        python-version: '3.x'
+      
+     - name: Install dependencies and Run script
+       run: |
+        pip install requests beautifulsoup4
+        python scarping-ope.py
+      
+     - name: Commit and Push changes
+       run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data.json
+        git commit -m "Auto-updated news data" || echo "No changes to commit"
+        git push
