@@ -22,7 +22,7 @@ jobs:
      - name: Install dependencies and Run script
        run: |
         pip install requests beautifulsoup4
-        python scarping-ope.py
+        python scraping-ope.py
       
      - name: Commit and Push changes
        run: |
