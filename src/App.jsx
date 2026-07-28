@@ -7,6 +7,7 @@ import './CSSs/ArticleOther.css'
 import Introduction from './Articles/Introduction'
 import TodoList from './Articles/Todo/TodoList'
 import Timer from './Articles/Timer/Timer'
+import Scraping from './Articles/scraping/Scraping'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import { Link } from 'react-router-dom'
 
@@ -34,7 +35,8 @@ function App() {
   const articles = [
     {id:1, title:"自己紹介", category:"other", element: <Introduction />,description: "ここの管理者の自己紹介を書いていきたいと思います", classname: "article-other",URL:"Introduction"},
     {id:2, title:"TodoList", category:"プログラミング", element: <TodoList />,description: "練習がてらTodoListを作成しました", classname: "article-other",URL:"TodoList"},
-     {id:3, title:"Timer", category:"プログラミング", element: <Timer />,description: "Typescript×Reactの練習にタイマーを作成しました", classname: "article-other",URL:"Timer"},
+    {id:3, title:"Timer", category:"プログラミング", element: <Timer />,description: "Typescript×Reactの練習にタイマーを作成しました", classname: "article-other",URL:"Timer"},
+    {id:4, title:"scraping", category:"プログラミング", element: <Scraping />,description: "Typescript×Pythonでスクレイピングを作る練習です", classname: "article-other",URL:"Scraping"}
   ]
 
   return (
