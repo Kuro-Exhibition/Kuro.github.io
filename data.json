@@ -1,5 +1,95 @@
 [
   {
+    "category": "Enterprise",
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+    "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/"
+  },
+  {
+    "category": "AI",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/"
+  },
+  {
+    "category": "AI",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+    "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Waymo robotaxis are starting to return to freeways",
+    "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/"
+  },
+  {
+    "category": "Security",
+    "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+    "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/"
+  },
+  {
+    "category": "Apps",
+    "title": "Google brings its age-assurance technology to Android developers worldwide",
+    "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/"
+  },
+  {
+    "category": "Apps",
+    "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+    "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/"
+  },
+  {
+    "category": "Apps",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
+  },
+  {
+    "category": "Fundraising",
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/"
+  },
+  {
+    "category": "Enterprise",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
+  },
+  {
+    "category": "Transportation",
+    "title": "DoorDash is building its own drone delivery business",
+    "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/"
+  },
+  {
+    "category": "Climate",
+    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+    "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/"
+  },
+  {
+    "category": "AI",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+  },
+  {
     "category": "In Brief",
     "title": "Bot-detection startup Spur nabs $200M from Insight",
     "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
@@ -8,95 +98,5 @@
     "category": "Startups",
     "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
     "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/"
-  },
-  {
-    "category": "AI",
-    "title": "Sam Altman is ready to decelerate",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-    "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
-  },
-  {
-    "category": "Space",
-    "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
-    "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/"
-  },
-  {
-    "category": "Commerce",
-    "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-    "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/"
-  },
-  {
-    "category": "Apps",
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
-  },
-  {
-    "category": "Apps",
-    "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
-    "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Saudi prince buys 5% stake in Lucid Motors",
-    "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/"
-  },
-  {
-    "category": "AI",
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
-  },
-  {
-    "category": "Commerce",
-    "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-    "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Elon Musk’s X Money app is rolling out in the US",
-    "url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/"
-  },
-  {
-    "category": "In Brief",
-    "title": "WhatsApp now lets you make calls using its web app",
-    "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/"
-  },
-  {
-    "category": "Fundraising",
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-    "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/"
-  },
-  {
-    "category": "AI",
-    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
-  },
-  {
-    "category": "Apps",
-    "title": "Granola launches an Apple Watch app",
-    "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
-    "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/"
-  },
-  {
-    "category": "AI",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
   }
 ]
