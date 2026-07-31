@@ -1,102 +1,102 @@
 [
   {
-    "category": "AI",
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
+    "category": "Transportation",
+    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+    "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/"
+  },
+  {
+    "category": "Startups",
+    "title": "Silicon Valley loves young founders. Until it doesn’t.",
+    "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/"
   },
   {
     "category": "Apps",
-    "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-    "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/"
+    "title": "India is starting to pay for apps, not just download them",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
   },
   {
     "category": "In Brief",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
   },
   {
-    "category": "Security",
-    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-    "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/"
+    "category": "In Brief",
+    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+    "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/"
+  },
+  {
+    "category": "Startups",
+    "title": "VC-backed startups commit more fraud, and researchers think they know why",
+    "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/"
+  },
+  {
+    "category": "Social",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
   },
   {
     "category": "AI",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
-  },
-  {
-    "category": "Security",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-    "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/"
-  },
-  {
-    "category": "AI",
-    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-    "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"
-  },
-  {
-    "category": "Apps",
-    "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
-    "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/"
-  },
-  {
-    "category": "Security",
-    "title": "Okta buys AI security startup Permiso — source says for about $200M",
-    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+    "title": "Siri AI could come with a paywall for power users",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/"
   },
   {
     "category": "Transportation",
-    "title": "Tesla made its 10 millionth EV",
-    "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/"
+    "title": "GM and Ford are talking less and less about EVs",
+    "url": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+    "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/"
   },
   {
     "category": "Climate",
-    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-    "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/"
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/"
+  },
+  {
+    "category": "Social",
+    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+    "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/"
+  },
+  {
+    "category": "Venture",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
   },
   {
     "category": "Apps",
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/"
+    "title": "WhatsApp is testing a new folder for messages from large businesses",
+    "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/"
   },
   {
-    "category": "Media & Entertainment",
-    "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-    "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/"
+    "category": "In Brief",
+    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+    "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/"
   },
   {
-    "category": "AI",
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
-  },
-  {
-    "category": "Climate",
-    "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-    "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/"
+    "category": "Venture",
+    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+    "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/"
   },
   {
     "category": "AI",
-    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
   },
   {
-    "category": "Security",
-    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/"
+    "category": "Hardware",
+    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+    "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/"
   },
   {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/"
+    "category": "AI",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
+  },
+  {
+    "category": "Social",
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
   }
 ]
