@@ -1,5 +1,55 @@
 [
   {
+    "category": "Featured",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+    "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+  },
+  {
+    "category": "AI",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+  },
+  {
+    "category": "Gadgets",
+    "title": "This $9 key physically locks your most addictive apps",
+    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+    "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/"
+  },
+  {
+    "category": "Apps",
+    "title": "Apps that help you break free from doomscrolling and get active",
+    "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/"
+  },
+  {
+    "category": "Hardware",
+    "title": "What’s the best handheld mini fan?",
+    "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/"
+  },
+  {
+    "category": "In Brief",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+  },
+  {
     "category": "Transportation",
     "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
     "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/"
@@ -48,55 +98,5 @@
     "category": "Hardware",
     "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
     "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/"
-  },
-  {
-    "category": "Climate",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/"
-  },
-  {
-    "category": "Social",
-    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-    "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/"
-  },
-  {
-    "category": "Venture",
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
-  },
-  {
-    "category": "Apps",
-    "title": "WhatsApp is testing a new folder for messages from large businesses",
-    "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-    "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/"
-  },
-  {
-    "category": "Venture",
-    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-    "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/"
-  },
-  {
-    "category": "AI",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-    "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/"
-  },
-  {
-    "category": "AI",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
-  },
-  {
-    "category": "Social",
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
   }
 ]
