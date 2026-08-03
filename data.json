@@ -1,5 +1,90 @@
 [
   {
+    "category": "Apps",
+    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+    "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/"
+  },
+  {
+    "category": "Startups",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+  },
+  {
+    "category": "Security",
+    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/"
+  },
+  {
+    "category": "AI",
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+  },
+  {
+    "category": "Social",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+    "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/"
+  },
+  {
+    "category": "AI",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
+  },
+  {
+    "category": "Apps",
+    "title": "Outernet turns your saved posts into real-world adventures",
+    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/"
+  },
+  {
+    "category": "In Brief",
+    "title": "WhatsApp says it is fixing an issue that disabled several accounts",
+    "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+    "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/"
+  },
+  {
+    "category": "Climate",
+    "title": "Base Power raises another $1B to save the grid using backyard batteries",
+    "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
+  },
+  {
+    "category": "Apps",
+    "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+    "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/"
+  },
+  {
+    "category": "Security",
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
+  },
+  {
+    "category": "Security",
+    "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+    "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/"
+  },
+  {
+    "category": "AI",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+    "url": "https://techcrunch.com/2026/08/03/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/"
+  },
+  {
     "category": "In Brief",
     "title": "The global memory shortage hits the MacBook Air",
     "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
@@ -13,90 +98,5 @@
     "category": "In Brief",
     "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
     "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
-  },
-  {
-    "category": "Transportation",
-    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
-  },
-  {
-    "category": "Apps",
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
-  },
-  {
-    "category": "Venture",
-    "title": "Inside the London hacker house taking a stand against founder burnout",
-    "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
-  },
-  {
-    "category": "AI",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-  },
-  {
-    "category": "Gadgets",
-    "title": "This $9 key physically locks your most addictive apps",
-    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-    "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/"
-  },
-  {
-    "category": "Apps",
-    "title": "Apps that help you break free from doomscrolling and get active",
-    "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/"
-  },
-  {
-    "category": "Hardware",
-    "title": "What’s the best handheld mini fan?",
-    "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/"
-  },
-  {
-    "category": "In Brief",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/"
-  },
-  {
-    "category": "Startups",
-    "title": "Silicon Valley loves young founders. Until it doesn’t.",
-    "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/"
-  },
-  {
-    "category": "Apps",
-    "title": "India is starting to pay for apps, not just download them",
-    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-    "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/"
   }
 ]
