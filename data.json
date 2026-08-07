@@ -1,5 +1,70 @@
 [
   {
+    "category": "Enterprise",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+    "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+  },
+  {
+    "category": "Security",
+    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
+  },
+  {
+    "category": "AI",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+    "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+    "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+    "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+    "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/"
+  },
+  {
+    "category": "AI",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
+  },
+  {
+    "category": "Climate",
+    "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+    "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+  },
+  {
+    "category": "AI",
+    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+    "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
+  },
+  {
     "category": "In Brief",
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
@@ -13,11 +78,6 @@
     "category": "Media & Entertainment",
     "title": "Vogue just gave another nod of approval to the tech world",
     "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-    "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
   },
   {
     "category": "Security",
@@ -38,65 +98,5 @@
     "category": "Transportation",
     "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
     "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/"
-  },
-  {
-    "category": "Social",
-    "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-    "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/"
-  },
-  {
-    "category": "AI",
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
-  },
-  {
-    "category": "Startups",
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-    "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/"
-  },
-  {
-    "category": "In Brief",
-    "title": "TikTok lays off 250 employees, shutters its Nashville office",
-    "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/"
-  },
-  {
-    "category": "Apps",
-    "title": "Google Wallet now lets parents set up secure balances for their kids",
-    "url": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/"
-  },
-  {
-    "category": "Social",
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
-    "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
-  },
-  {
-    "category": "Commerce",
-    "title": "eBay continues to bet on live shopping after record quarter",
-    "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/"
-  },
-  {
-    "category": "AI",
-    "title": "Amid legal battles, Suno says it will start watermarking songs",
-    "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Ford’s new electric truck, ‘Fathom,’ starts at $28,350",
-    "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/"
   }
 ]
