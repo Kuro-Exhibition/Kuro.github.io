@@ -1,102 +1,102 @@
 [
   {
     "category": "In Brief",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+    "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+    "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"
+  },
+  {
+    "category": "Gadgets",
+    "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+    "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/"
+  },
+  {
+    "category": "AI",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+  },
+  {
+    "category": "Startups",
+    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/"
+  },
+  {
+    "category": "Climate",
+    "title": "Tesla’s solar roof is dead — here’s what went wrong",
+    "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Waymo hands over documents in NHTSA’s child collision probe",
+    "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"
+  },
+  {
+    "category": "Transportation",
+    "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+    "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+    "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/"
+  },
+  {
+    "category": "Fintech",
+    "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+    "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/"
+  },
+  {
+    "category": "Space",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+    "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/"
+  },
+  {
+    "category": "Security",
+    "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+    "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/"
+  },
+  {
+    "category": "Security",
+    "title": "Senator asks US government watchdog to review how feds use hacking tools",
+    "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"
+  },
+  {
+    "category": "AI",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+  },
+  {
+    "category": "Startups",
+    "title": "What $1B+ in startup fundraising teaches you about investors with Sasha Orloff",
+    "url": "https://techcrunch.com/podcast/what-1b-in-startup-fundraising-teaches-you-about-investors-with-sasha-orloff/"
+  },
+  {
+    "category": "AI",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+  },
+  {
+    "category": "AI",
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
   },
   {
     "category": "Biotech & Health",
     "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
     "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"
-  },
-  {
-    "category": "AI",
-    "title": "OK, can we actually cool data centers with our pee?",
-    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
-  },
-  {
-    "category": "Security",
-    "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-    "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Mark buys a castle",
-    "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
-  },
-  {
-    "category": "Startups",
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-    "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/"
-  },
-  {
-    "category": "Gadgets",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
-  },
-  {
-    "category": "AI",
-    "title": "Grok keeps sending gibberish responses to users",
-    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "url": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
-  },
-  {
-    "category": "AI",
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
-  },
-  {
-    "category": "Venture",
-    "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-    "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"
-  },
-  {
-    "category": "Fintech",
-    "title": "Ramp launches its own AI model router, called Router",
-    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
-    "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/"
-  },
-  {
-    "category": "Gaming",
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
-  },
-  {
-    "category": "Featured",
-    "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/"
-  },
-  {
-    "category": "Social",
-    "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-    "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/"
-  },
-  {
-    "category": "AI",
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"
-  },
-  {
-    "category": "Startups",
-    "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
-    "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/"
   }
 ]
