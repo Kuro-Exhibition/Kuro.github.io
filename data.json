@@ -1,6 +1,66 @@
 [
   {
     "category": "In Brief",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+  },
+  {
+    "category": "AI",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+  },
+  {
+    "category": "In Brief",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+  },
+  {
+    "category": "AI",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+  },
+  {
+    "category": "Climate",
+    "title": "US battery startups have found a lifeline in defense",
+    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+    "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/"
+  },
+  {
+    "category": "Biotech & Health",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
+  },
+  {
+    "category": "Space",
+    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"
+  },
+  {
+    "category": "AI",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+  },
+  {
+    "category": "Venture",
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/"
+  },
+  {
+    "category": "In Brief",
     "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
     "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/"
   },
@@ -38,65 +98,5 @@
     "category": "Transportation",
     "title": "US government lab is probing Chinese lidar for security vulnerabilities",
     "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
-    "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/"
-  },
-  {
-    "category": "Fintech",
-    "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-    "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/"
-  },
-  {
-    "category": "Space",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-    "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/"
-  },
-  {
-    "category": "Security",
-    "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-    "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/"
-  },
-  {
-    "category": "Security",
-    "title": "Senator asks US government watchdog to review how feds use hacking tools",
-    "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-    "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"
-  },
-  {
-    "category": "AI",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
-  },
-  {
-    "category": "Startups",
-    "title": "What $1B+ in startup fundraising teaches you about investors with Sasha Orloff",
-    "url": "https://techcrunch.com/podcast/what-1b-in-startup-fundraising-teaches-you-about-investors-with-sasha-orloff/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
-  },
-  {
-    "category": "AI",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
-  },
-  {
-    "category": "Biotech & Health",
-    "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-    "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"
   }
 ]
