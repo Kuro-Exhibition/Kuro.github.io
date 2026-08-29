@@ -1,5 +1,35 @@
 [
   {
+    "category": "In Brief",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+  },
+  {
+    "category": "Venture",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+  },
+  {
+    "category": "Biotech & Health",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Hollywood celebs are getting into microdrama apps",
+    "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+  },
+  {
+    "category": "Gadgets",
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+  },
+  {
+    "category": "AI",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+  },
+  {
     "category": "Robotics",
     "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
     "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/"
@@ -68,35 +98,5 @@
     "category": "Transportation",
     "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
     "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-    "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Rivian’s CFO is leaving the company",
-    "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-    "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/"
-  },
-  {
-    "category": "Social",
-    "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-    "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"
-  },
-  {
-    "category": "Apps",
-    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-    "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/"
   }
 ]
