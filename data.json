@@ -1,5 +1,70 @@
 [
   {
+    "category": "AI",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
+  },
+  {
+    "category": "In Brief",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+  },
+  {
+    "category": "Social",
+    "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
+  },
+  {
+    "category": "Transportation",
+    "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/"
+  },
+  {
+    "category": "AI",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+  },
+  {
+    "category": "Hardware",
+    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/"
+  },
+  {
+    "category": "Gaming",
+    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
+  },
+  {
+    "category": "Apps",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
+  },
+  {
+    "category": "Security",
+    "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Feds launch investigation into Tesla’s Cybercab deployment",
+    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
+  },
+  {
+    "category": "AI",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+  },
+  {
     "category": "Biotech & Health",
     "title": "Oura files to go public",
     "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
@@ -33,70 +98,5 @@
     "category": "AI",
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
-  },
-  {
-    "category": "AI",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Last 2 days to apply to host a Side Event at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "category": "Startups",
-    "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-    "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
-  },
-  {
-    "category": "AI",
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
-  },
-  {
-    "category": "AI",
-    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
-  },
-  {
-    "category": "TechCrunch Founder Summit 2026",
-    "title": "Volunteer at TechCrunch Founder Summit in Boston",
-    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/"
-  },
-  {
-    "category": "Apps",
-    "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-    "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/"
-  },
-  {
-    "category": "AI",
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
   }
 ]
