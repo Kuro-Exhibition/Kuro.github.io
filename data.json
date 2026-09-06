@@ -1,6 +1,31 @@
 [
   {
     "category": "In Brief",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+  },
+  {
+    "category": "AI",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+  },
+  {
+    "category": "Transportation",
+    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+    "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Let’s take a look at the retro tech making a comeback",
+    "url": "https://techcrunch.com/2026/09/06/lets-take-a-look-at-the-retro-tech-making-a-comeback/"
+  },
+  {
+    "category": "In Brief",
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
   },
@@ -73,30 +98,5 @@
     "category": "TechCrunch Disrupt 2026",
     "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
     "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
-  },
-  {
-    "category": "Security",
-    "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
-    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Feds launch investigation into Tesla’s Cybercab deployment",
-    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
-  },
-  {
-    "category": "AI",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
-  },
-  {
-    "category": "Biotech & Health",
-    "title": "Oura files to go public",
-    "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
   }
 ]
