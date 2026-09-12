@@ -1,5 +1,25 @@
 [
   {
+    "category": "In Brief",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+  },
+  {
+    "category": "AI",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+  },
+  {
+    "category": "Security",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+  },
+  {
     "category": "Robotics",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
@@ -78,25 +98,5 @@
     "category": "AI",
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
-  },
-  {
-    "category": "AI",
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
-  },
-  {
-    "category": "Startups",
-    "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-    "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/"
-  },
-  {
-    "category": "AI",
-    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-    "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/"
   }
 ]
