@@ -1,5 +1,45 @@
 [
   {
+    "category": "Venture",
+    "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+    "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/"
+  },
+  {
+    "category": "Venture",
+    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+    "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
+  },
+  {
+    "category": "AI",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+  },
+  {
+    "category": "AI",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+  },
+  {
+    "category": "Transportation",
+    "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+    "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+  },
+  {
+    "category": "Climate",
+    "title": "Fusion power startups find new partners in the defense world",
+    "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+  },
+  {
     "category": "In Brief",
     "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
@@ -58,45 +98,5 @@
     "category": "Apps",
     "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
     "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
-  },
-  {
-    "category": "Startups",
-    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-    "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-    "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
-  },
-  {
-    "category": "Security",
-    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-    "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/"
-  },
-  {
-    "category": "Venture",
-    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-    "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/"
-  },
-  {
-    "category": "Enterprise",
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
   }
 ]
