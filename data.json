@@ -1,5 +1,90 @@
 [
   {
+    "category": "AI",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+  },
+  {
+    "category": "In Brief",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+  },
+  {
+    "category": "In Brief",
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+    "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+  },
+  {
+    "category": "Security",
+    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+    "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+    "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
+  },
+  {
+    "category": "AI",
+    "title": "With iOS 27, I’m actually using Siri again",
+    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+  },
+  {
+    "category": "Apps",
+    "title": "macOS 27: new Siri takes on AI productivity apps",
+    "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+  },
+  {
+    "category": "Apps",
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+  },
+  {
+    "category": "AI",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Waymo opens robotaxi service in Las Vegas",
+    "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+    "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
+  },
+  {
+    "category": "AI",
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/"
+  },
+  {
+    "category": "Apps",
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/"
+  },
+  {
     "category": "Venture",
     "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
     "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
@@ -13,90 +98,5 @@
     "category": "Venture",
     "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
     "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
-  },
-  {
-    "category": "AI",
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
-  },
-  {
-    "category": "AI",
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
-  },
-  {
-    "category": "Transportation",
-    "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-    "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
-  },
-  {
-    "category": "Climate",
-    "title": "Fusion power startups find new partners in the defense world",
-    "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
-  },
-  {
-    "category": "In Brief",
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-  },
-  {
-    "category": "AI",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
-  },
-  {
-    "category": "Security",
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
-  },
-  {
-    "category": "Robotics",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-  },
-  {
-    "category": "Venture",
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
-  },
-  {
-    "category": "Venture",
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
-  },
-  {
-    "category": "Apps",
-    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-    "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
   }
 ]
