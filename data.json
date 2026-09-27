@@ -1,5 +1,35 @@
 [
   {
+    "category": "In Brief",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+  },
+  {
+    "category": "In Brief",
+    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+    "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
+  },
+  {
+    "category": "Gadgets",
+    "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+    "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"
+  },
+  {
+    "category": "Featured",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+  },
+  {
+    "category": "Hardware",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+  },
+  {
     "category": "AI",
     "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
     "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
@@ -68,35 +98,5 @@
     "category": "AI",
     "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
     "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-    "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-    "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/"
   }
 ]
