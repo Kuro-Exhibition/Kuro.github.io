@@ -1,102 +1,102 @@
 [
   {
     "category": "AI",
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+    "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
   },
   {
     "category": "In Brief",
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   },
   {
-    "category": "Transportation",
-    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/"
-  },
-  {
-    "category": "In Brief",
-    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-    "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
-  },
-  {
-    "category": "In Brief",
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
-  },
-  {
-    "category": "Startups",
-    "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-    "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/"
-  },
-  {
-    "category": "Fintech",
-    "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-    "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
-  },
-  {
-    "category": "AI",
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+    "category": "Venture",
+    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+    "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
   },
   {
     "category": "Security",
-    "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/"
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
+  },
+  {
+    "category": "Transportation",
+    "title": "DoorDash’s drone strategy started on the ground",
+    "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/"
+  },
+  {
+    "category": "Transportation",
+    "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+    "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/"
   },
   {
     "category": "AI",
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
   },
   {
     "category": "In Brief",
-    "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+  },
+  {
+    "category": "Social",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
   },
   {
     "category": "AI",
-    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+    "title": "The ugly economics of consumer AI",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
   },
   {
-    "category": "Biotech & Health",
-    "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-    "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/"
+    "category": "AI",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+  },
+  {
+    "category": "In Brief",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+  },
+  {
+    "category": "AI",
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
+  },
+  {
+    "category": "AI",
+    "title": "Instinct’s new product recommendations are giving some users the ick",
+    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
+  },
+  {
+    "category": "In Brief",
+    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+    "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+    "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/"
+  },
+  {
+    "category": "Gadgets",
+    "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+    "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/"
+  },
+  {
+    "category": "Apps",
+    "title": "Instagram rolls out an AI video assistant for creators",
+    "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/"
+  },
+  {
+    "category": "AI",
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
   }
 ]
