@@ -1,12 +1,62 @@
 [
   {
+    "category": "AI",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+  },
+  {
+    "category": "AI",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+  },
+  {
+    "category": "Media & Entertainment",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+  },
+  {
+    "category": "AI",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+    "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
+  },
+  {
+    "category": "Biotech & Health",
+    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+    "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
+  },
+  {
+    "category": "Fundraising",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+  },
+  {
+    "category": "TechCrunch Disrupt 2026",
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+  },
+  {
     "category": "In Brief",
     "title": "Will the HomeView be Apple’s first smart home success?",
     "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
   },
   {
     "category": "Media & Entertainment",
-    "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
     "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
   },
   {
@@ -48,55 +98,5 @@
     "category": "Media & Entertainment",
     "title": "What to know about the landmark Warner Bros. Discovery sale",
     "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/"
-  },
-  {
-    "category": "AI",
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-  },
-  {
-    "category": "AI",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
-  },
-  {
-    "category": "Startups",
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
-  },
-  {
-    "category": "Startups",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
-  },
-  {
-    "category": "AI",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
-  },
-  {
-    "category": "Space",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
-  },
-  {
-    "category": "AI",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Long live the mechanical keyboard",
-    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
   }
 ]
