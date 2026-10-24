@@ -1,6 +1,76 @@
 [
   {
-    "category": "Social",
+    "category": "Startups",
+    "title": "Startups don’t need to go viral to win customers",
+    "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
+  },
+  {
+    "category": "AI",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+  },
+  {
+    "category": "AI",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+  },
+  {
+    "category": "Venture",
+    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
+  },
+  {
+    "category": "TechCrunch Founder Summit 2026",
+    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/"
+  },
+  {
+    "category": "Venture",
+    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+    "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
+  },
+  {
+    "category": "TechCrunch Founder Summit 2026",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+  },
+  {
+    "category": "Climate",
+    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/"
+  },
+  {
+    "category": "Venture",
+    "title": "What some of Anthropic’s backers are worth before its IPO",
+    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
+  },
+  {
+    "category": "Security",
+    "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+    "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
+  },
+  {
+    "category": "Biotech & Health",
+    "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+  },
+  {
+    "category": "AI",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+  },
+  {
+    "category": "Government & Policy",
     "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
     "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"
   },
@@ -28,75 +98,5 @@
     "category": "Apps",
     "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
     "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/"
-  },
-  {
-    "category": "Venture",
-    "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-    "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/"
-  },
-  {
-    "category": "AI",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-  },
-  {
-    "category": "Apps",
-    "title": "Canva releases its first image generation model",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-  },
-  {
-    "category": "AI",
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Elon Musk made a $1B investment in Skydance, report says",
-    "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-    "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/"
-  },
-  {
-    "category": "AI",
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Tesla is prepping a Cybercab onslaught",
-    "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-    "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"
-  },
-  {
-    "category": "TechCrunch Disrupt 2026",
-    "title": "Investors break down how founders can raise a Series A today",
-    "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
-    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
   }
 ]
