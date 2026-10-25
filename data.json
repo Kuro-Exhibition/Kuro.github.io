@@ -1,5 +1,55 @@
 [
   {
+    "category": "In Brief",
+    "title": "Starlink seems to be working normally again in Ukraine",
+    "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+  },
+  {
+    "category": "Security",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+  },
+  {
+    "category": "AI",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+  },
+  {
+    "category": "AI",
+    "title": "Block’s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+  },
+  {
+    "category": "Security",
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+  },
+  {
+    "category": "Apps",
+    "title": "These clever apps show off the iPhone Duo’s potential",
+    "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
+  },
+  {
+    "category": "AI",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+  },
+  {
+    "category": "Hardware",
+    "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+    "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/"
+  },
+  {
+    "category": "AI",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
     "category": "Startups",
     "title": "Startups don’t need to go viral to win customers",
     "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
@@ -48,55 +98,5 @@
     "category": "Venture",
     "title": "What some of Anthropic’s backers are worth before its IPO",
     "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
-  },
-  {
-    "category": "Security",
-    "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-    "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
-  },
-  {
-    "category": "Biotech & Health",
-    "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-  },
-  {
-    "category": "AI",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-  },
-  {
-    "category": "Government & Policy",
-    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"
-  },
-  {
-    "category": "Startups",
-    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
-  },
-  {
-    "category": "In Brief",
-    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/"
-  },
-  {
-    "category": "In Brief",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-    "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/"
-  },
-  {
-    "category": "Apps",
-    "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/"
   }
 ]
