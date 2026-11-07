@@ -1,6 +1,71 @@
 [
   {
     "category": "In Brief",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+    "category": "Apps",
+    "title": "The Duo apps are coming, says Apple",
+    "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
+  },
+  {
+    "category": "Security",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+  },
+  {
+    "category": "AI",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Fox completes its $22B acquisition of Roku",
+    "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+  },
+  {
+    "category": "AI",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+  },
+  {
+    "category": "Commerce",
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+  },
+  {
+    "category": "AI",
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+  },
+  {
+    "category": "AI",
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+  },
+  {
+    "category": "Transportation",
+    "title": "Tesla will stop making the Cybertruck in 2027",
+    "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+    "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+  },
+  {
+    "category": "Security",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+  },
+  {
+    "category": "In Brief",
     "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
     "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
   },
@@ -33,70 +98,5 @@
     "category": "AI",
     "title": "OpenAI released a new cybersecurity model. Is that enough?",
     "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-  },
-  {
-    "category": "Security",
-    "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
-  },
-  {
-    "category": "Venture",
-    "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-    "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
-  },
-  {
-    "category": "AI",
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Harbinger raises $240M after expanding into defense",
-    "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/"
-  },
-  {
-    "category": "Startups",
-    "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-    "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/"
-  },
-  {
-    "category": "AI",
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
-  },
-  {
-    "category": "In Brief",
-    "title": "Bluesky hit peak usage for the year on election night",
-    "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
-  },
-  {
-    "category": "Apps",
-    "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-    "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
-  },
-  {
-    "category": "Enterprise",
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-  },
-  {
-    "category": "Apps",
-    "title": "Instagram brings Edits to desktop to take on CapCut",
-    "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
-  },
-  {
-    "category": "Apps",
-    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-    "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
   }
 ]
