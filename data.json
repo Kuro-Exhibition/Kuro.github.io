@@ -1,5 +1,45 @@
 [
   {
+    "category": "Government & Policy",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+  },
+  {
+    "category": "Hardware",
+    "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+  },
+  {
+    "category": "Venture",
+    "title": "Sequoia shutting down its Scouts program marks the end of an era",
+    "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+  },
+  {
+    "category": "Government & Policy",
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+  },
+  {
+    "category": "AI",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+  },
+  {
     "category": "In Brief",
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
@@ -58,45 +98,5 @@
     "category": "Government & Policy",
     "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
     "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
-  },
-  {
-    "category": "Security",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-  },
-  {
-    "category": "In Brief",
-    "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-    "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
-  },
-  {
-    "category": "Government & Policy",
-    "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-    "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"
-  },
-  {
-    "category": "AI",
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-  },
-  {
-    "category": "Transportation",
-    "title": "Serve Robotics launches new business to become the AWS for robots",
-    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
-  },
-  {
-    "category": "AI",
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-  },
-  {
-    "category": "AI",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
   }
 ]
