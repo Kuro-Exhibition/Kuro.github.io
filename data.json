@@ -1,5 +1,80 @@
 [
   {
+    "category": "AI",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+  },
+  {
+    "category": "AI",
+    "title": "Why the data center you dread might never even be built",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Meta is losing its longtime head of  infrastructure",
+    "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+  },
+  {
+    "category": "Venture",
+    "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+    "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/"
+  },
+  {
+    "category": "AI",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+  },
+  {
+    "category": "AI",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+  },
+  {
+    "category": "In Brief",
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+  },
+  {
+    "category": "AI",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+  },
+  {
+    "category": "AI",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+  },
+  {
+    "category": "Fundraising",
+    "title": "Siri co-founder backs Helix for its voice ID tech",
+    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/"
+  },
+  {
+    "category": "Enterprise",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+  },
+  {
+    "category": "AI",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+  },
+  {
+    "category": "AI",
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+  },
+  {
     "category": "Social",
     "title": "X launches its own clipping feature to spur influencer engagement",
     "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
@@ -23,80 +98,5 @@
     "category": "Climate",
     "title": "X-energy gets green light to build its first small modular nuclear reactors",
     "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
-  },
-  {
-    "category": "AI",
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
-  },
-  {
-    "category": "AI",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
-  },
-  {
-    "category": "AI",
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
-  },
-  {
-    "category": "AI",
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-  },
-  {
-    "category": "Hardware",
-    "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
-  },
-  {
-    "category": "AI",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-  },
-  {
-    "category": "AI",
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-  },
-  {
-    "category": "Apps",
-    "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-    "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
-  },
-  {
-    "category": "Media & Entertainment",
-    "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/"
-  },
-  {
-    "category": "AI",
-    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
-  },
-  {
-    "category": "In Brief",
-    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-    "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
-  },
-  {
-    "category": "AI",
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
-  },
-  {
-    "category": "Commerce",
-    "title": "Reddit is turning user conversations into AI-powered product reviews",
-    "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"
-  },
-  {
-    "category": "Apps",
-    "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-    "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/"
-  },
-  {
-    "category": "AI",
-    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
   }
 ]
